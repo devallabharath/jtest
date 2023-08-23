@@ -1,0 +1,16 @@
+{
+  "name": "jtest",
+  "version": "1.0.0",
+  "description": "JS testing cli",
+  "author": "Bharath Devalla",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "jtest": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "jsdom": "^22.1.0"
+  }
+}
